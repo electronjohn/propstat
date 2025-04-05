@@ -1,8 +1,8 @@
 [package]
-name = "eframe_template"
+name = "propstat"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
-edition = "2021"
+authors = ["John Porterfield <jporterfield@bridgesourcemedical.com"]
+edition = "2025"
 include = ["LICENSE-APACHE", "LICENSE-MIT", "**/*.rs", "Cargo.toml"]
 rust-version = "1.81"
 
